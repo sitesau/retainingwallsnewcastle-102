@@ -1,0 +1,22 @@
+{
+  "wheel_id": 440,
+  "structure": "umbrella",
+  "slug": "retainingwallsnewcastle-102",
+  "project": "retaining-walls-newcastle-what-to-expect-8bbeefa984562bf2a61377",
+  "parent_t1_ref": "retainingwallsnewcastle-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallsnewcastle.com.au",
+  "primary_kw": "retaining walls newcastle what to expect",
+  "intended_url": "https://sitesau.github.io/retainingwallsnewcastle-102/",
+  "tier": "T2",
+  "writeback_nonce": "1636ec6167f9aa35",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-newcastle-checklist-82516dc3d68f9459dfc7e2f52dc/",
+      "anchor": "https://sites-e470-2.web.app/retaining-walls-newcastle-checklist-82516dc3d68f9459dfc7e2f52dc/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
